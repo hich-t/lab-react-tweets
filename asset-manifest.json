@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lab-react-tweets/static/css/main.0bd9ebbf.css",
+    "main.js": "/lab-react-tweets/static/js/main.c6a7b425.js",
+    "static/js/787.f22ae941.chunk.js": "/lab-react-tweets/static/js/787.f22ae941.chunk.js",
+    "index.html": "/lab-react-tweets/index.html",
+    "main.0bd9ebbf.css.map": "/lab-react-tweets/static/css/main.0bd9ebbf.css.map",
+    "main.c6a7b425.js.map": "/lab-react-tweets/static/js/main.c6a7b425.js.map",
+    "787.f22ae941.chunk.js.map": "/lab-react-tweets/static/js/787.f22ae941.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd9ebbf.css",
+    "static/js/main.c6a7b425.js"
+  ]
+}
